@@ -32,6 +32,7 @@ Expected Outcomes:
 •	A robust fraud detection system that leverages GNNs to analyze complex transaction networks.
 •	Evaluation results showcasing the model's effectiveness in identifying fraudulent activities.
 •	Optionally, an interactive visualization tool for fraud analysts.
+
 Impact:
 •	Enhanced security and trust in online marketplaces by proactively identifying and preventing fraudulent transactions.
 •	Improved customer satisfaction and reduced financial losses for e-commerce platforms.
