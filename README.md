@@ -25,8 +25,6 @@ Project Objectives:
 4.	Model Evaluation:
 •	Evaluate the GNN-based fraud detection model using metrics like precision, recall, F1-score, and AUC-ROC.
 •	Test the model on a real-world dataset to assess its performance in detecting fraudulent activities.
-5.	Interactive Visualization (Optional):
-•	Create an interactive visualization or dashboard to display detected fraud cases and provide insights into fraudulent patterns.
 
 Expected Outcomes:
 •	A robust fraud detection system that leverages GNNs to analyze complex transaction networks.
