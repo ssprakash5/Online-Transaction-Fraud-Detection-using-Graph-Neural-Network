@@ -2,8 +2,6 @@
 ![Fraud Detection1](https://github.com/ssprakash5/Online-Transaction-Fraud-Detection-using-Graphical-Neural-Network/assets/154003057/edb46aed-c1e2-4317-b60e-396c2ce5c493)![Fraud Detection 2](https://github.com/ssprakash5/Online-Transaction-Fraud-Detection-using-Graphical-Neural-Network/assets/154003057/f684fe05-81ff-4faf-a43f-c68ba4fc8c52)
 ![Anomally score](https://github.com/ssprakash5/Online-Transaction-Fraud-Detection-using-Graphical-Neural-Network/assets/154003057/46b81df1-7af4-46d0-b973-f1c1243ed50d)
 
-# Fraud Detection in Online Marketplaces with Graph Neural Networks (GNN)
-
 ## Project Overview
 
 This project focuses on addressing the problem of fraud detection in online marketplaces, such as e-commerce platforms or peer-to-peer marketplaces, using Graph Neural Networks (GNNs). By modeling and analyzing complex transaction networks with GNNs, the aim is to identify fraudulent activities more effectively compared to traditional machine learning approaches.
