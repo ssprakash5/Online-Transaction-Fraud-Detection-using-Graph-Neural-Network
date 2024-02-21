@@ -37,6 +37,7 @@ This project focuses on addressing the problem of fraud detection in online mark
 - Implement anomaly detection techniques to identify suspicious or fraudulent activities within the transaction graph.
 - Utilize the learned embeddings to detect anomalies and flag potentially fraudulent transactions or users.
 ![GNN](https://github.com/ssprakash5/Online-Transaction-Fraud-Detection-using-Graph-Neural-Network/assets/154003057/76182fac-9de3-4fd0-817d-41429babc434)
+![isolation forest](https://github.com/ssprakash5/Online-Transaction-Fraud-Detection-using-Graph-Neural-Network/assets/154003057/de13de7c-373c-44e5-94d7-e0f76d8a1be0)
 
 ### Model Evaluation
 
