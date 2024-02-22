@@ -4,15 +4,16 @@
 
 ## Project Overview
 
-This project focuses on addressing the problem of fraud detection in online marketplaces, such as e-commerce platforms or peer-to-peer marketplaces, using Graph Neural Networks (GNNs). By modeling and analyzing complex transaction networks with GNNs, the aim is to identify fraudulent activities more effectively compared to traditional machine learning approaches.
+This project focuses on addressing the problem of fraud detection in online transactions. Graph Neural Networks (GNN) model built with Graph Convolutional Networks and trained the Online Payment Fraud Detection dataset(https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection/data). By modeling and analyzing complex transaction networks with GNNs, the aim is to identify fraudulent activities more effectively compared to traditional machine learning approaches.
+
 ![Fraud detection](https://github.com/ssprakash5/Online-Transaction-Fraud-Detection-using-Graph-Neural-Network/assets/154003057/374fb4d1-7418-4c6b-bf70-edb824d1fbdf)
 
 ## Skills and Technologies Utilized
 
 - Graph Neural Networks (GNNs)
-- Python (PyTorch, TensorFlow)
+- Python (PyTorch)
 - Data Preprocessing and Feature Engineering
-- Anomaly Detection
+- Anomaly Detection-Isolation Forest
 - Network Analysis
 - Machine Learning
 - Deep Learning
@@ -26,7 +27,7 @@ This project focuses on addressing the problem of fraud detection in online mark
 
 ### Graph Neural Network Model
 
-- Develop a GNN-based model capable of effectively capturing the relationships and dependencies within the transaction graph.
+- Develop a GNN-based model with a Graph Convolution Network capable of effectively capturing the relationships and dependencies within the transaction graph.
 - Train the GNN to learn node embeddings that encode user and product behaviors.
 ![GNN_main](https://github.com/ssprakash5/Online-Transaction-Fraud-Detection-using-Graph-Neural-Network/assets/154003057/a7cefc9e-17cd-4de0-9531-856a94d358e7)
 ![GNN1](https://github.com/ssprakash5/Online-Transaction-Fraud-Detection-using-Graph-Neural-Network/assets/154003057/bbe4abf2-8780-4615-a4d7-ca73029b6a01)
@@ -34,7 +35,7 @@ This project focuses on addressing the problem of fraud detection in online mark
 
 ### Anomaly Detection
 
-- Implement anomaly detection techniques to identify suspicious or fraudulent activities within the transaction graph.
+- Implement anomaly detection-Isolation Forest techniques to identify suspicious or fraudulent activities within the transaction graph.
 - Utilize the learned embeddings to detect anomalies and flag potentially fraudulent transactions or users.
 ![GNN](https://github.com/ssprakash5/Online-Transaction-Fraud-Detection-using-Graph-Neural-Network/assets/154003057/76182fac-9de3-4fd0-817d-41429babc434)
 ![isolation forest](https://github.com/ssprakash5/Online-Transaction-Fraud-Detection-using-Graph-Neural-Network/assets/154003057/de13de7c-373c-44e5-94d7-e0f76d8a1be0)
